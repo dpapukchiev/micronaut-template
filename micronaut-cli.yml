@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: daniel.learn
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, flyway, graalvm, gradle, h2, http-client, java, java-application, jdbc-hikari, jib, jooq, junit, kafka, kafka-streams, kubernetes, log4j2, lombok, management, micrometer, micrometer-prometheus, mockito, netty-server, properties, readme, shade, testcontainers]
